@@ -18,8 +18,11 @@ h1 {color:rgb(130, 16, 103);
 * body{
   text-align: justify;
   font-family: 'Nanum Gothic', sans-serif;
-  margin-top: 8px;}
+  margin-top: 10px;}
 
+  .index-ul li a:hover {
+    color:crimson;
+  }
   
 
   
